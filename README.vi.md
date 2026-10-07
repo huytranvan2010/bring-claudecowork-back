@@ -60,4 +60,6 @@ Nội dung đầy đủ có trên website.
 
 Tác giả: Senior AI Engineer - AI Coding · [huytranvan2010@gmail.com](mailto:huytranvan2010@gmail.com)
 
+[![GitHub](https://img.shields.io/badge/GitHub-bring--claudecowork--back-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huytranvan2010/bring-claudecowork-back)
+
 <p align="right"><a href="#top">Lên đầu trang</a></p>

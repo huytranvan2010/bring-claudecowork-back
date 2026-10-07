@@ -60,4 +60,6 @@ This is a community initiative, not affiliated with Anthropic. All product names
 
 Created by Senior AI Engineer - AI Coding · [huytranvan2010@gmail.com](mailto:huytranvan2010@gmail.com)
 
+[![GitHub](https://img.shields.io/badge/GitHub-bring--claudecowork--back-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huytranvan2010/bring-claudecowork-back)
+
 <p align="right"><a href="#top">Back to top</a></p>
