@@ -18,7 +18,7 @@ Respectful · constructive · community-run.</p>
 <p><b>English</b> · <a href="README.vi.md">Tiếng Việt</a></p>
 
 <p>
-<a href="https://YOUR-PROJECT.vercel.app"><b>Vote on the website: https://YOUR-PROJECT.vercel.app</b></a>
+<a href="https://bring-claudecowork-back.vercel.app"><b>Vote on the website: https://bring-claudecowork-back.vercel.app</b></a>
 </p>
 
 <sub>

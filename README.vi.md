@@ -18,7 +18,7 @@ Lịch sự · mang tính xây dựng · do cộng đồng tự lập.</p>
 <p><a href="README.md">English</a> · <b>Tiếng Việt</b></p>
 
 <p>
-<a href="https://YOUR-PROJECT.vercel.app/?lang=vi"><b>Bình chọn tại website: https://YOUR-PROJECT.vercel.app/?lang=vi</b></a>
+<a href="https://bring-claudecowork-back.vercel.app/?lang=vi"><b>Bình chọn tại website: https://bring-claudecowork-back.vercel.app/?lang=vi</b></a>
 </p>
 
 <sub>
